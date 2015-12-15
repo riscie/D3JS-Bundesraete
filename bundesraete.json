@@ -1,0 +1,1155 @@
+{
+  "nodes":
+  [
+    {
+      "name":"Friedrich, Rudolf",
+      "birthdate":1923,
+      "hometown":"Winterthur",
+      "canton":"ZH",
+      "party":"FDP",
+      "electionDate":"08.12.1982",
+      "regressionDate":"20.10.1984",
+      "dayOfDeath":"15.10.2013"
+    },
+    {
+      "name":"Stich, Otto",
+      "birthdate":1927,
+      "hometown":"Kleinlützel",
+      "canton":"SO",
+      "party":"SP",
+      "electionDate":"07.12.1983",
+      "regressionDate":"31.10.1995",
+      "dayOfDeath":"12.09.2012"
+    },
+    {
+      "name":"Delamuraz, Jean-Pascal",
+      "birthdate":1936,
+      "hometown":"Longirod",
+      "canton":"VD",
+      "party":"FDP",
+      "electionDate":"07.12.1983",
+      "regressionDate":"30.03.1998",
+      "dayOfDeath":"04.10.1998"
+    },
+    {
+      "name":"Kopp, Elisabeth",
+      "birthdate":1936,
+      "hometown":"Niederönz, Luzern und Zumikon",
+      "canton":"ZH",
+      "party":"FDP",
+      "electionDate":"02.10.1984",
+      "regressionDate":"12.01.1989",
+      "dayOfDeath":""
+    },
+    {
+      "name":"Koller, Arnold",
+      "birthdate":1933,
+      "hometown":"Gossau u. Oberbüren",
+      "canton":"AI",
+      "party":"CVP",
+      "electionDate":"10.12.1986",
+      "regressionDate":"30.04.1999",
+      "dayOfDeath":""
+    },
+    {
+      "name":"Cotti, Flavio",
+      "birthdate":1939,
+      "hometown":"Prato Sornico",
+      "canton":"TI",
+      "party":"CVP",
+      "electionDate":"10.12.1986",
+      "regressionDate":"30.04.1999",
+      "dayOfDeath":""
+    },
+    {
+      "name":"Felber, René",
+      "birthdate":1933,
+      "hometown":"Kottwil und Le Locle",
+      "canton":"NE",
+      "party":"SP",
+      "electionDate":"09.12.1987",
+      "regressionDate":"31.03.1993",
+      "dayOfDeath":""
+    },
+    {
+      "name":"Ogi, Adolf",
+      "birthdate":1942,
+      "hometown":"Kandersteg",
+      "canton":"BE",
+      "party":"SVP",
+      "electionDate":"09.12.1987",
+      "regressionDate":"31.12.2000",
+      "dayOfDeath":""
+    },
+    {
+      "name":"Villiger, Kaspar",
+      "birthdate":1941,
+      "hometown":"Sins und Pfeffikon",
+      "canton":"LU",
+      "party":"FDP",
+      "electionDate":"01.02.1989",
+      "regressionDate":"31.12.2003",
+      "dayOfDeath":""
+    },
+    {
+      "name":"Dreifuss, Ruth",
+      "birthdate":1940,
+      "hometown":"Endingen",
+      "canton":"GE",
+      "party":"SP",
+      "electionDate":"10.03.1993",
+      "regressionDate":"31.12.2002",
+      "dayOfDeath":""
+    },
+    {
+      "name":"Leuenberger, Moritz",
+      "birthdate":1946,
+      "hometown":"Rohrbach ",
+      "canton":"ZH",
+      "party":"SP",
+      "electionDate":"27.09.1995",
+      "regressionDate":"31.10.2010",
+      "dayOfDeath":""
+    },
+    {
+      "name":"Couchepin, Pascal",
+      "birthdate":1942,
+      "hometown":"Martigny ",
+      "canton":"VS",
+      "party":"FDP",
+      "electionDate":"11.03.1998",
+      "regressionDate":"31.10.2009",
+      "dayOfDeath":""
+    },
+    {
+      "name":"Metzler-Arnold, Ruth",
+      "birthdate":1964,
+      "hometown":"Willisau, Richenthal und Balgach",
+      "canton":"AI",
+      "party":"CVP",
+      "electionDate":"11.03.1999",
+      "regressionDate":"31.12.2003",
+      "dayOfDeath":""
+    },
+    {
+      "name":"Deiss, Joseph",
+      "birthdate":1946,
+      "hometown":"Zeihen",
+      "canton":"FR",
+      "party":"CVP",
+      "electionDate":"11.03.1999",
+      "regressionDate":"31.07.2006",
+      "dayOfDeath":""
+    },
+    {
+      "name":"Schmid, Samuel",
+      "birthdate":1947,
+      "hometown":"Attiswil",
+      "canton":"BE",
+      "party":"SVP",
+      "electionDate":"06.12.2000",
+      "regressionDate":"31.12.2008",
+      "dayOfDeath":""
+    },
+    {
+      "name":"Calmy-Rey, Micheline",
+      "birthdate":1945,
+      "hometown":"Chermignon",
+      "canton":"GE",
+      "party":"SP",
+      "electionDate":"04.12.2002",
+      "regressionDate":"31.12.2011",
+      "dayOfDeath":""
+    },
+    {
+      "name":"Blocher, Christoph",
+      "birthdate":1940,
+      "hometown":"Meilen, Zürich, Schattenhalb",
+      "canton":"ZH",
+      "party":"SVP",
+      "electionDate":"10.12.2003",
+      "regressionDate":"31.12.2007",
+      "dayOfDeath":""
+    },
+    {
+      "name":"Merz, Hans-Rudolf",
+      "birthdate":1942,
+      "hometown":"Beinwil am See",
+      "canton":"AR",
+      "party":"FDP",
+      "electionDate":"10.12.2003",
+      "regressionDate":"14.12.2004",
+      "dayOfDeath":""
+    },
+    {
+      "name":"Leuthard, Doris",
+      "birthdate":1963,
+      "hometown":"Merenschwand, Sarnen",
+      "canton":"AG",
+      "party":"CVP",
+      "electionDate":"14.06.2006",
+      "regressionDate":"19.06.2007",
+      "dayOfDeath":""
+    },
+    {
+      "name":"Widmer-Schlumpf, Eveline",
+      "birthdate":1956,
+      "hometown":"Felsberg, Mönchaltorf",
+      "canton":"GR",
+      "party":"SVP",
+      "electionDate":"12.12.2007",
+      "regressionDate":"16.12.2008",
+      "dayOfDeath":""
+    },
+    {
+      "name":"Maurer, Ueli",
+      "birthdate":1950,
+      "hometown":"Adelboden, Hinwil",
+      "canton":"ZH",
+      "party":"SVP",
+      "electionDate":"10.12.2008",
+      "regressionDate":"15.12.2009",
+      "dayOfDeath":""
+    },
+    {
+      "name":"Burkhalter, Didier",
+      "birthdate":1960,
+      "hometown":"Neuchâtel, Sumiswald",
+      "canton":"NE",
+      "party":"FDP",
+      "electionDate":"16.09.2009",
+      "regressionDate":"21.09.2010",
+      "dayOfDeath":""
+    },
+    {
+      "name":"Sommaruga, Simonetta",
+      "birthdate":1960,
+      "hometown":"Lugano, Eggiwil",
+      "canton":"BE",
+      "party":"SP",
+      "electionDate":"22.09.2010",
+      "regressionDate":"27.09.2011",
+      "dayOfDeath":""
+    },
+    {
+      "name":"Schneider-Ammann, Johann N.",
+      "birthdate":1952,
+      "hometown":"Hasle bei Burgdorf",
+      "canton":"BE",
+      "party":"FDP",
+      "electionDate":"22.09.2010",
+      "regressionDate":"27.09.2011",
+      "dayOfDeath":""
+    },
+    {
+      "name":"Berset, Alain",
+      "birthdate":1972,
+      "hometown":"Misery-Courtion",
+      "canton":"FR",
+      "party":"SP",
+      "electionDate":"14.12.2011",
+      "regressionDate":"18.12.2012",
+      "dayOfDeath":""
+    },
+    {
+      "name":"Kobelt, Karl",
+      "birthdate":1891,
+      "hometown":"Marbach",
+      "canton":"SG",
+      "party":"FDP",
+      "electionDate":"10.12.1940",
+      "regressionDate":"05.11.1954",
+      "dayOfDeath":"06.01.1968"
+    },
+    {
+      "name":"Nobs, Ernst",
+      "birthdate":1886,
+      "hometown":"Seedorf, Grindelwald und Zürich",
+      "canton":"ZH",
+      "party":"SP",
+      "electionDate":"15.12.1943",
+      "regressionDate":"13.11.1951",
+      "dayOfDeath":"15.03.1957"
+    },
+    {
+      "name":"Petitpierre, Max",
+      "birthdate":1899,
+      "hometown":"Neuchâtel et Couvet",
+      "canton":"NE",
+      "party":"FDP",
+      "electionDate":"14.12.1944",
+      "regressionDate":"30.06.1961",
+      "dayOfDeath":"25.03.1994"
+    },
+    {
+      "name":"Rubattel, Rodolphe",
+      "birthdate":1896,
+      "hometown":"Villarzel",
+      "canton":"VD",
+      "party":"FDP",
+      "electionDate":"11.12.1947",
+      "regressionDate":"01.11.1954",
+      "dayOfDeath":"18.10.1961"
+    },
+    {
+      "name":"Escher, Josef",
+      "birthdate":1885,
+      "hometown":"Simplon-Dorf",
+      "canton":"VS",
+      "party":"CVP",
+      "electionDate":"14.09.1950",
+      "regressionDate":"04.12.1954",
+      "dayOfDeath":"09.12.1954"
+    },
+    {
+      "name":"Feldmann, Markus",
+      "birthdate":1897,
+      "hometown":"Glarus und Bern",
+      "canton":"BE",
+      "party":"SVP",
+      "electionDate":"13.12.1951",
+      "regressionDate":"03.11.1958",
+      "dayOfDeath":"03.11.1958"
+    },
+    {
+      "name":"Weber, Max",
+      "birthdate":1897,
+      "hometown":"Zürich",
+      "canton":"ZH",
+      "party":"SP",
+      "electionDate":"13.12.1951",
+      "regressionDate":"08.12.1953",
+      "dayOfDeath":"02.12.1974"
+    },
+    {
+      "name":"Streuli, Hans",
+      "birthdate":1892,
+      "hometown":"Wädenswil u. Richterswil",
+      "canton":"ZH",
+      "party":"FDP",
+      "electionDate":"22.12.1953",
+      "regressionDate":"19.11.1959",
+      "dayOfDeath":"23.05.1970"
+    },
+    {
+      "name":"Holenstein, Thomas",
+      "birthdate":1896,
+      "hometown":"Bütschwil",
+      "canton":"SG",
+      "party":"CVP",
+      "electionDate":"16.12.1954",
+      "regressionDate":"20.11.1959",
+      "dayOfDeath":"31.10.1962"
+    },
+    {
+      "name":"Chaudet, Paul",
+      "birthdate":1904,
+      "hometown":"Corsier s. Vevey",
+      "canton":"VD",
+      "party":"FDP",
+      "electionDate":"16.12.1954",
+      "regressionDate":"31.12.1966",
+      "dayOfDeath":"07.08.1977"
+    },
+    {
+      "name":"Lepori, Giuseppe",
+      "birthdate":1902,
+      "hometown":"Lopagno",
+      "canton":"TI",
+      "party":"CPV",
+      "electionDate":"16.12.1954",
+      "regressionDate":"24.11.1959",
+      "dayOfDeath":"06.09.1968"
+    },
+    {
+      "name":"Wahlen, Friedrich Traugott",
+      "birthdate":1899,
+      "hometown":"Trimstein u. Bern",
+      "canton":"BE",
+      "party":"SVP",
+      "electionDate":"11.12.1958",
+      "regressionDate":"31.12.1965",
+      "dayOfDeath":"07.11.1985"
+    },
+    {
+      "name":"Bourgknecht, Jean",
+      "birthdate":1902,
+      "hometown":"Fribourg",
+      "canton":"FR",
+      "party":"CVP",
+      "electionDate":"17.12.1959",
+      "regressionDate":"30.09.1962",
+      "dayOfDeath":"23.12.1964"
+    },
+    {
+      "name":"Spühler, Willy",
+      "birthdate":1902,
+      "hometown":"Zürich",
+      "canton":"ZH",
+      "party":"SP",
+      "electionDate":"17.12.1959",
+      "regressionDate":"31.01.1970",
+      "dayOfDeath":"31.05.1990"
+    },
+    {
+      "name":"von Moos, Ludwig",
+      "birthdate":1910,
+      "hometown":"Sachseln",
+      "canton":"OW",
+      "party":"CVP",
+      "electionDate":"17.12.1959",
+      "regressionDate":"31.12.1971",
+      "dayOfDeath":"26.11.1990"
+    },
+    {
+      "name":"Tschudi, Hans-Peter",
+      "birthdate":1913,
+      "hometown":"Schwanden u. Basel",
+      "canton":"BS",
+      "party":"SP",
+      "electionDate":"17.12.1959",
+      "regressionDate":"31.12.1973",
+      "dayOfDeath":"30.09.2002"
+    },
+    {
+      "name":"Schaffner, Hans",
+      "birthdate":1908,
+      "hometown":"Gränichen",
+      "canton":"AG",
+      "party":"FDP",
+      "electionDate":"15.06.1961",
+      "regressionDate":"31.12.1969",
+      "dayOfDeath":"26.11.2004"
+    },
+    {
+      "name":"Bonvin, Roger",
+      "birthdate":1907,
+      "hometown":"Icogne-Lens, Chermignon et Nendaz",
+      "canton":"VS",
+      "party":"CVP",
+      "electionDate":"27.09.1962",
+      "regressionDate":"31.12.1973",
+      "dayOfDeath":"05.06.1982"
+    },
+    {
+      "name":"Gnägi, Rudolf",
+      "birthdate":1917,
+      "hometown":"Schwadernau",
+      "canton":"BE",
+      "party":"SVP",
+      "electionDate":"08.12.1965",
+      "regressionDate":"31.12.1979",
+      "dayOfDeath":"20.04.1985"
+    },
+    {
+      "name":"Celio, Nello",
+      "birthdate":1914,
+      "hometown":"Quinto (Lev.)",
+      "canton":"TI",
+      "party":"FDP",
+      "electionDate":"15.12.1966",
+      "regressionDate":"31.12.1973",
+      "dayOfDeath":"29.12.1995"
+    },
+    {
+      "name":"Graber, Pierre",
+      "birthdate":1908,
+      "hometown":"Langenbruck und La Chaux-de-Fonds",
+      "canton":"NE",
+      "party":"SP",
+      "electionDate":"10.12.1969",
+      "regressionDate":"31.01.1978",
+      "dayOfDeath":"19.07.2003"
+    },
+    {
+      "name":"Brugger, Ernst",
+      "birthdate":1914,
+      "hometown":"Möriken und Grossau",
+      "canton":"ZH",
+      "party":"FDP",
+      "electionDate":"10.12.1969",
+      "regressionDate":"31.01.1978",
+      "dayOfDeath":"20.06.1998"
+    },
+    {
+      "name":"Furgler, Kurt",
+      "birthdate":1924,
+      "hometown":"Valens u. Pfäfers",
+      "canton":"SG",
+      "party":"CVP",
+      "electionDate":"08.12.1971",
+      "regressionDate":"31.12.1986",
+      "dayOfDeath":"23.07.2008"
+    },
+    {
+      "name":"Ritschard, Willy",
+      "birthdate":1918,
+      "hometown":"Oberhofen u. Luterbach",
+      "canton":"SO",
+      "party":"SP",
+      "electionDate":"05.12.1973",
+      "regressionDate":"03.10.1983",
+      "dayOfDeath":"16.10.1983"
+    },
+    {
+      "name":"Hürlimann, Hans",
+      "birthdate":1918,
+      "hometown":"Walchwil",
+      "canton":"ZG",
+      "party":"CVP",
+      "electionDate":"05.12.1973",
+      "regressionDate":"31.12.1982",
+      "dayOfDeath":"22.02.1994"
+    },
+    {
+      "name":"Chevallaz, Georges-André",
+      "birthdate":1915,
+      "hometown":"Montherod",
+      "canton":"VD",
+      "party":"FDP",
+      "electionDate":"05.12.1973",
+      "regressionDate":"31.12.1983",
+      "dayOfDeath":"08.09.2002"
+    },
+    {
+      "name":"Honegger, Fritz",
+      "birthdate":1917,
+      "hometown":"Fischenthal u. Rüschlikon",
+      "canton":"ZH",
+      "party":"FDP",
+      "electionDate":"07.12.1977",
+      "regressionDate":"31.12.1982",
+      "dayOfDeath":"04.03.1999"
+    },
+    {
+      "name":"Aubert, Pierre",
+      "birthdate":1927,
+      "hometown":"Savagnier",
+      "canton":"NE",
+      "party":"SP",
+      "electionDate":"07.12.1977",
+      "regressionDate":"31.12.1987",
+      "dayOfDeath":""
+    },
+    {
+      "name":"Schlumpf, Leon",
+      "birthdate":1925,
+      "hometown":"Mönchaltdorf u. Felsberg",
+      "canton":"GR",
+      "party":"SVP",
+      "electionDate":"05.12.1979",
+      "regressionDate":"31.12.1987",
+      "dayOfDeath":"07.07.2012"
+    },
+    {
+      "name":"Egli, Alphons",
+      "birthdate":1924,
+      "hometown":"Entlebuch u. Luzern",
+      "canton":"LU",
+      "party":"CVP",
+      "electionDate":"08.12.1982",
+      "regressionDate":"31.12.1986",
+      "dayOfDeath":""
+    },
+    {
+      "name":"Lachenal, Adrien",
+      "birthdate":1849,
+      "hometown":"Genève",
+      "canton":"GE",
+      "party":"FDP",
+      "electionDate":"15.12.1892",
+      "regressionDate":"31.12.1899",
+      "dayOfDeath":"29.06.1918"
+    },
+    {
+      "name":"Ruffy, Eugène",
+      "birthdate":1854,
+      "hometown":"Lutry",
+      "canton":"VD",
+      "party":"FDP",
+      "electionDate":"14.12.1893",
+      "regressionDate":"31.10.1899",
+      "dayOfDeath":"25.10.1919"
+    },
+    {
+      "name":"Müller, Eduard",
+      "birthdate":1848,
+      "hometown":"Nidau",
+      "canton":"BE",
+      "party":"FDP",
+      "electionDate":"16.08.1895",
+      "regressionDate":"09.11.1919",
+      "dayOfDeath":"09.11.1919"
+    },
+    {
+      "name":"Brenner, Ernst",
+      "birthdate":1856,
+      "hometown":"Basel",
+      "canton":"BS",
+      "party":"FDP",
+      "electionDate":"25.03.1897",
+      "regressionDate":"11.03.1911",
+      "dayOfDeath":"11.03.1911"
+    },
+    {
+      "name":"Comtesse, Robert",
+      "birthdate":1847,
+      "hometown":"La Sagne u. Cernier",
+      "canton":"NE",
+      "party":"FDP",
+      "electionDate":"14.12.1899",
+      "regressionDate":"16.12.1912",
+      "dayOfDeath":"17.11.1922"
+    },
+    {
+      "name":"Ruchet, Marc-Emile",
+      "birthdate":1853,
+      "hometown":"Bex",
+      "canton":"VD",
+      "party":"FDP",
+      "electionDate":"14.12.1899",
+      "regressionDate":"13.07.1912",
+      "dayOfDeath":"13.07.1912"
+    },
+    {
+      "name":"Forrer, Ludwig",
+      "birthdate":1845,
+      "hometown":"Bäretswil u. Winterthur",
+      "canton":"ZH",
+      "party":"FDP",
+      "electionDate":"11.12.1902",
+      "regressionDate":"07.12.1917",
+      "dayOfDeath":"28.09.1921"
+    },
+    {
+      "name":"Schobinger, Josef Anton",
+      "birthdate":1849,
+      "hometown":"Luzern",
+      "canton":"LU",
+      "party":"CVP",
+      "electionDate":"17.06.1908",
+      "regressionDate":"27.11.1911",
+      "dayOfDeath":"27.11.1911"
+    },
+    {
+      "name":"Hoffmann, Arthur",
+      "birthdate":1857,
+      "hometown":"St. Gallen",
+      "canton":"SG",
+      "party":"FDP",
+      "electionDate":"04.04.1911",
+      "regressionDate":"18.06.1917",
+      "dayOfDeath":"23.07.1927"
+    },
+    {
+      "name":"Motta, Giuseppe",
+      "birthdate":1871,
+      "hometown":"Airolo",
+      "canton":"TI",
+      "party":"CVP",
+      "electionDate":"14.12.1911",
+      "regressionDate":"23.01.1940",
+      "dayOfDeath":"23.01.1940"
+    },
+    {
+      "name":"Perrier, Louis",
+      "birthdate":1849,
+      "hometown":"Ste-Croix et Neuchâtel",
+      "canton":"NE",
+      "party":"FDP",
+      "electionDate":"12.03.1912",
+      "regressionDate":"16.05.1913",
+      "dayOfDeath":"16.05.1913"
+    },
+    {
+      "name":"Decoppet, Camille",
+      "birthdate":1862,
+      "hometown":"Suscevaz et Yverdon",
+      "canton":"VD",
+      "party":"FDP",
+      "electionDate":"17.07.1912",
+      "regressionDate":"07.11.1919",
+      "dayOfDeath":"14.01.1925"
+    },
+    {
+      "name":"Schulthess, Edmund",
+      "birthdate":1868,
+      "hometown":"Brugg",
+      "canton":"AG",
+      "party":"FDP",
+      "electionDate":"17.07.1912",
+      "regressionDate":"15.04.1935",
+      "dayOfDeath":"22.04.1944"
+    },
+    {
+      "name":"Calonder, Felix L.",
+      "birthdate":1863,
+      "hometown":"Trins",
+      "canton":"GR",
+      "party":"FDP",
+      "electionDate":"12.06.1913",
+      "regressionDate":"12.02.1920",
+      "dayOfDeath":"14.06.1952"
+    },
+    {
+      "name":"Ador, Gustave",
+      "birthdate":1845,
+      "hometown":"Genève",
+      "canton":"GE",
+      "party":"LPS",
+      "electionDate":"26.06.1917",
+      "regressionDate":"31.12.1919",
+      "dayOfDeath":"31.03.1928"
+    },
+    {
+      "name":"Haab, Robert",
+      "birthdate":1865,
+      "hometown":"Wädenswil",
+      "canton":"ZH",
+      "party":"FDP",
+      "electionDate":"13.12.1917",
+      "regressionDate":"31.12.1929",
+      "dayOfDeath":"15.10.1939"
+    },
+    {
+      "name":"Scheurer, Karl",
+      "birthdate":1872,
+      "hometown":"Erlach",
+      "canton":"BE",
+      "party":"FDP",
+      "electionDate":"11.12.1919",
+      "regressionDate":"14.11.1929",
+      "dayOfDeath":"14.11.1929"
+    },
+    {
+      "name":"Chuard, Ernest",
+      "birthdate":1857,
+      "hometown":"Corcelles s. Payerne",
+      "canton":"VD",
+      "party":"FDP",
+      "electionDate":"11.12.1919",
+      "regressionDate":"31.12.1928",
+      "dayOfDeath":"09.11.1942"
+    },
+    {
+      "name":"Musy, Jean-Marie",
+      "birthdate":1876,
+      "hometown":"Albeuve",
+      "canton":"FR",
+      "party":"CVP",
+      "electionDate":"11.12.1919",
+      "regressionDate":"30.04.1934",
+      "dayOfDeath":"19.04.1952"
+    },
+    {
+      "name":"Häberlin, Heinrich",
+      "birthdate":1868,
+      "hometown":"Bissegg u. Frauenfeld",
+      "canton":"TG",
+      "party":"FDP",
+      "electionDate":"12.02.1920",
+      "regressionDate":"30.04.1934",
+      "dayOfDeath":"26.02.1947"
+    },
+    {
+      "name":"Pilet-Golaz, Marcel",
+      "birthdate":1889,
+      "hometown":"Château-d'Oex",
+      "canton":"VD",
+      "party":"FDP",
+      "electionDate":"13.12.1928",
+      "regressionDate":"07.11.1944",
+      "dayOfDeath":"11.04.1958"
+    },
+    {
+      "name":"Minger, Rudolf",
+      "birthdate":1881,
+      "hometown":"Mülchi u. Schüpfen",
+      "canton":"BE",
+      "party":"SVP",
+      "electionDate":"12.12.1929",
+      "regressionDate":"31.12.1940",
+      "dayOfDeath":"23.08.1955"
+    },
+    {
+      "name":"Meyer, Albert",
+      "birthdate":1870,
+      "hometown":"Fällanden u. Zürich",
+      "canton":"ZH",
+      "party":"FDP",
+      "electionDate":"12.12.1929",
+      "regressionDate":"31.12.1938",
+      "dayOfDeath":"22.10.1953"
+    },
+    {
+      "name":"Baumann, Johannes",
+      "birthdate":1874,
+      "hometown":"Herisau",
+      "canton":"AR",
+      "party":"FDP",
+      "electionDate":"22.03.1934",
+      "regressionDate":"31.12.1940",
+      "dayOfDeath":"08.09.1953"
+    },
+    {
+      "name":"Etter, Philipp",
+      "birthdate":1891,
+      "hometown":"Menzingen",
+      "canton":"ZG",
+      "party":"CVP",
+      "electionDate":"28.03.1934",
+      "regressionDate":"19.11.1959",
+      "dayOfDeath":"23.12.1977"
+    },
+    {
+      "name":"Obrecht, Hermann",
+      "birthdate":1882,
+      "hometown":"Grenchen",
+      "canton":"SO",
+      "party":"FDP",
+      "electionDate":"04.04.1935",
+      "regressionDate":"20.06.1940",
+      "dayOfDeath":"21.08.1940"
+    },
+    {
+      "name":"Wetter, Ernst",
+      "birthdate":1877,
+      "hometown":"Winterthur",
+      "canton":"ZH",
+      "party":"FDP",
+      "electionDate":"15.12.1938",
+      "regressionDate":"31.12.1943",
+      "dayOfDeath":"10.08.1963"
+    },
+    {
+      "name":"Celio, Enrico",
+      "birthdate":1889,
+      "hometown":"Ambri",
+      "canton":"TI",
+      "party":"CVP",
+      "electionDate":"22.02.1940",
+      "regressionDate":"23.06.1950",
+      "dayOfDeath":"23.02.1980"
+    },
+    {
+      "name":"Stampfli, Walter",
+      "birthdate":1884,
+      "hometown":"Aeschi",
+      "canton":"SO",
+      "party":"FDP",
+      "electionDate":"18.07.1940",
+      "regressionDate":"18.11.1947",
+      "dayOfDeath":"11.10.1965"
+    },
+    {
+      "name":"von Steiger, Eduard",
+      "birthdate":1881,
+      "hometown":"Bern u. Langnau i. E.",
+      "canton":"BE",
+      "party":"SVP",
+      "electionDate":"10.12.1940",
+      "regressionDate":"09.11.1951",
+      "dayOfDeath":"10.02.1962"
+    },
+    {
+      "name":"Furrer, Jonas",
+      "birthdate":1805,
+      "hometown":"Winterthur",
+      "canton":"ZH",
+      "party":"FDP",
+      "electionDate":"16.11.1848",
+      "regressionDate":"25.07.1861",
+      "dayOfDeath":"25.07.1861"
+    },
+    {
+      "name":"Ochsenbein, Ulrich",
+      "birthdate":1811,
+      "hometown":"Nidau",
+      "canton":"BE",
+      "party":"FDP",
+      "electionDate":"16.11.1848",
+      "regressionDate":"31.12.1854",
+      "dayOfDeath":"03.11.1890"
+    },
+    {
+      "name":"Druey, Daniel-Henri",
+      "birthdate":1799,
+      "hometown":"Faoug",
+      "canton":"VD",
+      "party":"FDP",
+      "electionDate":"16.11.1848",
+      "regressionDate":"29.03.1855",
+      "dayOfDeath":"29.03.1855"
+    },
+    {
+      "name":"Munzinger, Martin J.",
+      "birthdate":1791,
+      "hometown":"Olten",
+      "canton":"SO",
+      "party":"FDP",
+      "electionDate":"16.11.1848",
+      "regressionDate":"06.02.1855",
+      "dayOfDeath":"06.02.1855"
+    },
+    {
+      "name":"Franscini, Stefano",
+      "birthdate":1796,
+      "hometown":"Bodio",
+      "canton":"TI",
+      "party":"FDP",
+      "electionDate":"16.11.1848",
+      "regressionDate":"19.07.1857",
+      "dayOfDeath":"19.07.1857"
+    },
+    {
+      "name":"Frey-Herosee, Friedrich",
+      "birthdate":1801,
+      "hometown":"Aarau",
+      "canton":"AG",
+      "party":"FDP",
+      "electionDate":"16.11.1848",
+      "regressionDate":"31.12.1866",
+      "dayOfDeath":"22.09.1873"
+    },
+    {
+      "name":"Naeff, Wilhelm Math.",
+      "birthdate":1802,
+      "hometown":"Altstätten",
+      "canton":"SG",
+      "party":"FDP",
+      "electionDate":"16.11.1848",
+      "regressionDate":"31.12.1875",
+      "dayOfDeath":"21.01.1881"
+    },
+    {
+      "name":"Stämpfli, Jakob",
+      "birthdate":1820,
+      "hometown":"Schwanden",
+      "canton":"BE",
+      "party":"FDP",
+      "electionDate":"06.12.1854",
+      "regressionDate":"31.12.1863",
+      "dayOfDeath":"15.05.1879"
+    },
+    {
+      "name":"Fornerod, Constant",
+      "birthdate":1819,
+      "hometown":"Avenches",
+      "canton":"VD",
+      "party":"FDP",
+      "electionDate":"11.07.1855",
+      "regressionDate":"31.10.1867",
+      "dayOfDeath":"27.11.1899"
+    },
+    {
+      "name":"Knüsel, Josef Martin",
+      "birthdate":1813,
+      "hometown":"Luzern",
+      "canton":"LU",
+      "party":"FDP",
+      "electionDate":"14.07.1855",
+      "regressionDate":"31.12.1875",
+      "dayOfDeath":"15.01.1889"
+    },
+    {
+      "name":"Pioda, Giovanni Battista",
+      "birthdate":1808,
+      "hometown":"Locarno",
+      "canton":"TI",
+      "party":"FDP",
+      "electionDate":"30.07.1857",
+      "regressionDate":"26.01.1864",
+      "dayOfDeath":"03.11.1882"
+    },
+    {
+      "name":"Dubs, Jakob",
+      "birthdate":1822,
+      "hometown":"Affoltern",
+      "canton":"ZH",
+      "party":"FDP",
+      "electionDate":"30.07.1861",
+      "regressionDate":"28.05.1872",
+      "dayOfDeath":"13.01.1879"
+    },
+    {
+      "name":"Schenk, Karl",
+      "birthdate":1823,
+      "hometown":"Signau",
+      "canton":"BE",
+      "party":"FDP",
+      "electionDate":"12.12.1863",
+      "regressionDate":"18.07.1895",
+      "dayOfDeath":"18.07.1895"
+    },
+    {
+      "name":"Challet-Venel, J.-Jacques",
+      "birthdate":1814,
+      "hometown":"Genève",
+      "canton":"GE",
+      "party":"FDP",
+      "electionDate":"12.07.1864",
+      "regressionDate":"31.12.1872",
+      "dayOfDeath":"06.08.1893"
+    },
+    {
+      "name":"Welti, Emil",
+      "birthdate":1825,
+      "hometown":"Zurzach",
+      "canton":"AG",
+      "party":"FDP",
+      "electionDate":"08.12.1866",
+      "regressionDate":"31.12.1891",
+      "dayOfDeath":"24.02.1899"
+    },
+    {
+      "name":"Ruffy, Victor",
+      "birthdate":1823,
+      "hometown":"Lutry",
+      "canton":"VD",
+      "party":"FDP",
+      "electionDate":"06.12.1867",
+      "regressionDate":"29.12.1869",
+      "dayOfDeath":"29.12.1869"
+    },
+    {
+      "name":"Ceresole, Paul",
+      "birthdate":1832,
+      "hometown":"Vevey",
+      "canton":"VD",
+      "party":"FDP",
+      "electionDate":"01.02.1870",
+      "regressionDate":"21.12.1875",
+      "dayOfDeath":"07.01.1905"
+    },
+    {
+      "name":"Scherer, Johann Jakob",
+      "birthdate":1825,
+      "hometown":"Winterthur",
+      "canton":"ZH",
+      "party":"FDP",
+      "electionDate":"12.07.1872",
+      "regressionDate":"23.01.1878",
+      "dayOfDeath":"23.01.1878"
+    },
+    {
+      "name":"Borel, Eugène",
+      "birthdate":1835,
+      "hometown":"Neuchâtel",
+      "canton":"NE",
+      "party":"FDP",
+      "electionDate":"07.12.1872",
+      "regressionDate":"31.12.1875",
+      "dayOfDeath":"14.06.1892"
+    },
+    {
+      "name":"Heer, Joachim",
+      "birthdate":1825,
+      "hometown":"Glarus",
+      "canton":"GL",
+      "party":"FDP",
+      "electionDate":"10.12.1875",
+      "regressionDate":"31.12.1878",
+      "dayOfDeath":"01.03.1879"
+    },
+    {
+      "name":"Anderwert, Fridolin",
+      "birthdate":1828,
+      "hometown":"Emmishofen",
+      "canton":"TG",
+      "party":"FDP",
+      "electionDate":"10.12.1875",
+      "regressionDate":"25.12.1880",
+      "dayOfDeath":"25.12.1880"
+    },
+    {
+      "name":"Hammer, Bernhard",
+      "birthdate":1822,
+      "hometown":"Olten",
+      "canton":"SO",
+      "party":"FDP",
+      "electionDate":"10.12.1875",
+      "regressionDate":"31.12.1890",
+      "dayOfDeath":"06.04.1907"
+    },
+    {
+      "name":"Droz, Numa",
+      "birthdate":1844,
+      "hometown":"La Chaux-de-Fonds",
+      "canton":"NE",
+      "party":"FDP",
+      "electionDate":"18.12.1875",
+      "regressionDate":"18.12.1892",
+      "dayOfDeath":"15.12.1899"
+    },
+    {
+      "name":"Bavier, Simeon",
+      "birthdate":1825,
+      "hometown":"Chur",
+      "canton":"GR",
+      "party":"FDP",
+      "electionDate":"10.12.1878",
+      "regressionDate":"05.01.1883",
+      "dayOfDeath":"27.01.1896"
+    },
+    {
+      "name":"Hertenstein, Wilhelm",
+      "birthdate":1825,
+      "hometown":"Kyburg",
+      "canton":"ZH",
+      "party":"FDP",
+      "electionDate":"21.03.1879",
+      "regressionDate":"27.11.1888",
+      "dayOfDeath":"27.11.1888"
+    },
+    {
+      "name":"Ruchonnet, Louis",
+      "birthdate":1834,
+      "hometown":"St-Saphorin",
+      "canton":"VD",
+      "party":"FDP",
+      "electionDate":"03.03.1881",
+      "regressionDate":"14.09.1893",
+      "dayOfDeath":"14.09.1893"
+    },
+    {
+      "name":"Deucher, Adolf",
+      "birthdate":1831,
+      "hometown":"Steckborn",
+      "canton":"TG",
+      "party":"FDP",
+      "electionDate":"10.04.1883",
+      "regressionDate":"10.07.1912",
+      "dayOfDeath":"10.07.1912"
+    },
+    {
+      "name":"Hauser, Walter",
+      "birthdate":1837,
+      "hometown":"Wädenswil und St. Gallen",
+      "canton":"ZH",
+      "party":"FDP",
+      "electionDate":"13.12.1888",
+      "regressionDate":"22.10.1902",
+      "dayOfDeath":"22.10.1902"
+    },
+    {
+      "name":"Frey, Emil",
+      "birthdate":1838,
+      "hometown":"Münchenstein",
+      "canton":"BL",
+      "party":"FDP",
+      "electionDate":"11.12.1890",
+      "regressionDate":"11.03.1897",
+      "dayOfDeath":"24.12.1922"
+    },
+    {
+      "name":"Zemp, Joseph",
+      "birthdate":1834,
+      "hometown":"Entlebuch",
+      "canton":"LU",
+      "party":"CVP",
+      "electionDate":"17.12.1891",
+      "regressionDate":"17.06.1908",
+      "dayOfDeath":"08.12.1908"
+    }
+  ]
+}

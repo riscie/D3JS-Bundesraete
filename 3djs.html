@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  stroke-width: 0;
+  font-family: Segoe, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  font-size: 0.7em;
+}
+
+.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
+
+</style>
+<body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.11/d3.js"></script>
+<script>
+
+var width = 1900,
+    height = 900;
+
+var color = d3.scale.category10();
+
+var force = d3.layout.force()
+    .charge(-120)
+    .linkDistance(30)
+    .size([width, height]);
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+d3.json("bundesraete.json", function(error, graph) {
+  if (error) throw error;
+
+
+function calculateCircleSize(){
+  return Math.random()*20; 
+}
+
+function getYear(wholeDate){
+  var split = wholeDate.split(".");
+  return split[2];
+}
+
+function getLastName(name){
+  var split = name.split(",");
+  return split[1];
+}
+
+//Reading out all allParties
+var allParties = [];
+graph.nodes.forEach(function(node, i) {
+  if (allParties.indexOf(node.party) == -1) {
+    allParties.push(node.party);
+  }
+});
+
+var links = [];
+var parties = [];
+
+allParties.forEach(function(party){
+  graph.nodes.forEach(function(node, i) {
+    if (node.party == party){
+      parties.push(i);
+    }
+  })
+});
+
+for (index = 0, len = parties.length; index < len-1; ++index) {
+    var link = {"source": parties[index],"target": parties[index+1]};
+    links.push(link);
+}
+
+graph.links = links;
+
+
+  force
+      .nodes(graph.nodes)
+      .links(graph.links)
+      .start();
+
+      var link = svg.selectAll(".link")
+          .data(graph.links)
+          .enter().append("line")
+          .attr("class", "link")
+          .style("stroke-width", 1);
+
+
+        var nodes = svg.selectAll(".node")
+          .data(graph.nodes)
+          .enter().append('g')
+          .attr("class", "node")
+          .call(force.drag);
+
+        // Add one circle in each group
+        var circle = nodes.append("circle")
+          .attr("r", function(d) { return (getYear(d.regressionDate)-getYear(d.electionDate))*1.5 })
+          .style("fill", function(d) { return color(d.party); })
+
+
+        // Append the labels to each group
+        var labels = nodes.append("text")
+          .text(function(d) { return getLastName(d.name); });
+
+
+
+        //Append Hover Text
+        var hover = nodes.append("title")
+          .text(function(d) { return "Name: "+d.name+"\nPartei: "+d.party; });
+
+        force.on("tick", function() {
+          link.attr("x1", function(d) { return d.source.x; })
+              .attr("y1", function(d) { return d.source.y; })
+              .attr("x2", function(d) { return d.target.x; })
+              .attr("y2", function(d) { return d.target.y; });
+
+
+      nodes.attr("transform", function(d) { 
+          return 'translate(' + [d.x, d.y] + ')'; 
+        }); 
+
+ 
+    });
+
+  
+});
+
+</script>
