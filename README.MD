@@ -3,4 +3,5 @@
 
 ![image of graph](http://langaust.com/github/3djs.png)
 
-Based on this example: http://bl.ocks.org/mbostock/4062045
+
+*[1] Based on this example: http://bl.ocks.org/mbostock/4062045*
